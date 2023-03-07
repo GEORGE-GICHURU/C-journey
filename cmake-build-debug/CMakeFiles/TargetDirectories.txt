@@ -1,0 +1,3 @@
+C:/Users/Gichuru/CLionProjects/c++ startup/cmake-build-debug/CMakeFiles/c___startup.dir
+C:/Users/Gichuru/CLionProjects/c++ startup/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Gichuru/CLionProjects/c++ startup/cmake-build-debug/CMakeFiles/rebuild_cache.dir
